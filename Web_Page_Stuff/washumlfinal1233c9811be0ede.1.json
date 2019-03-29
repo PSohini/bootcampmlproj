@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "washu-ml-final123",
+  "private_key_id": "3c9811be0ede59dd0c4697ae638ccc4f919139a4",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCzc7uK/1gUu3Ho\n2MgahtH13QVSb7D2ICKonDmuSavHoZ/yoaM+yOn1i0boSsixTs9JV/xq/hyyZ8ui\nau1X4FuG59ClkkQkrZSEJOIWQ5tUBcT5dJu/Hk579YdpTvGOsUQsHlzDrLS1FuFm\n+iJtSMmwqtG/2xuJbgLyuHvIWPk+1SrIqBRIvTLMoA0sXWUWTHLKjgcj8FXAH1o1\nJxHGmjJD4GGgpLotpM39dIePiN3RCLL4l4nwg710fneUBf1HgrLDGXWU4ILB4XwA\ndOpnSFoT3+kHx3gNpVBmbgvBSvKwpGw9Oq1Xgs/8xM0lFcFsZQ9nAk0UDGPobZRn\nzk4tDa/FAgMBAAECggEAJw13Yakui7p8MGJm78Dp1eHu29ETN4joSf3PnrKJJ+Vw\nR87t1gbGxYk1Ge3WbaG7QhicBdO9voSQoAy5kJ9yg7IUqceiPUIqOTTGn/ZACiHE\nS05Za5bmmRrmiGAl+PnyXlCQOwQtgmBTlsO2NMa7n88Y3PILtNWEXjqQM5pLSaUg\nUskKuIJeZ5oi4kDJLVa+MrWzoyuuxhXat6vi2ajdtkz588lBLakvezX3A1D0n//F\n3woU5ur0RDjwNPaJeKYMGs9eFdeA80YWVgxfPd7tXCPWSe0IVGUNnO0dbB13xQFG\ncwhJZf4gp8W7qloLKMaotTxwYxVXvOCkz5KV5oOsGQKBgQDkfDSxYkL9kAc7DUhj\n746ODjl302GyLTYnLGhJXitYsm+ghnR9qVV/Wt6eP9vWhhPPtoj/4x33OTw9/Tu5\nsQkU4my62nMYn47xcgRwxmfU1UZP12XR/cHsumfYGD7t/57SI8Mgs8cRl40+0KSg\nvX1qQlhuMmrnRh2Xvr9zFHa1qQKBgQDJD+xKGQIPZlQqDa1OnnrOgGhjRNkvJOxV\nx4dHNhOLDLNdYjvi4O57Chw1ueIv2t5PQkp92MEaPILwR9bjXumAEOxl6cWk/pIk\nrDa8QvLn1LLxwGJl4WkAK1zcMWAPU7ligSFGxCZQ7YJqWBdDbXybrmVx6yvbrnrW\nhLG5tnRCvQKBgQCwAGlKlqmJzs9zEolHyfmivZxRDDg+WwtS46c1lN+JBHJuUgQb\n5Duizamcdw5t0nwiTbZ8fkPP83vPOGkwYgnf14bv7GQqfIZMwIphIMRMszjlOcQK\nHRGru+9QC2U2SejacIfXggR/LaG02F1oIG8iUhbyU837dwxGnr209Pd4eQKBgDoL\nhsO9hIK9n/6kBCx2RC3plDlUXv7lQfVhrQQ58FpsSDvlaDSPi0mqGYrJJyt5nER1\ndtvt/5F7drG3i6oIdJCsUhL58j034SkFLqgbC9Ux6pcwWzfeY1nRKvXGq1zBZvux\nG9I6PnWOm9/nno+wxBCNwGuq4PaC4KOdm1FqAxZhAoGAbSZxXx187GcOmA1/TfRM\nvQpTSSAjzyuxFVcS5StXC32cnkHAmyqKFcOFEIRlh3pMyKMj3Rb2Tys6ztXs7+ee\nDc0wiaD9E0f47mk8oxFlW5v1fstFbyjQH/XleIFOOOvQwamYIJThQaLau//8AqdK\n8XqsW66LTRrsyHprAGEDbmw=\n-----END PRIVATE KEY-----\n",
+  "client_email": "washulearnlangapp@washu-ml-final123.iam.gserviceaccount.com",
+  "client_id": "105441666686741157948",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/washulearnlangapp%40washu-ml-final123.iam.gserviceaccount.com"
+}
